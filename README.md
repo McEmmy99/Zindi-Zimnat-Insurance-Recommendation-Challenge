@@ -10,4 +10,4 @@ submission_stack - 0.0277239861855118
 
 submission_stack_new - 0.0277255891682328
 
-submission_stack2.csv - ≈0.0275 (change params)
+submission_stack2.csv - < 0.0275 (change params)
